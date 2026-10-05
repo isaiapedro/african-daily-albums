@@ -1,0 +1,822 @@
+{
+  "schema_version": 1,
+  "catalogue_version": "okayafrica-readers-100-984fb9f93a16",
+  "provenance": {
+    "source_url": "https://www.okayafrica.com/the-100-best-african-albums-according-to-our-readers/1404354",
+    "source_title": "The 100 Best African Albums (According To Our Readers)",
+    "license": "Source page copyright © OkayAfrica; normalized factual list used with attribution",
+    "retrieved_at": "2026-09-24T14:10:51.102744Z",
+    "normalized_content_sha256": "984fb9f93a1600bdce09b1896d387ee169ab8412605d004012dc5961bd288d01",
+    "ordering_note": "Position follows article display order and is not a best-to-worst ranking.",
+    "release_year_enrichment": {
+      "provider": "MusicBrainz",
+      "retrieved_at": "2026-09-24T15:16:55.261212Z",
+      "matched_count": 69,
+      "unmatched_count": 31,
+      "normalized_content_sha256": "f59ecbe401c2309207a49311070c69065ca2d882db57892fc8a7e535f34394a1",
+      "note": "Supplemental display metadata; catalogue_version remains the stable journey ordering key."
+    }
+  },
+  "albums": [
+    {
+      "rank": 1,
+      "title": "Africa to the World",
+      "release_year": 2018,
+      "artist_credit": "Sun-El Musician",
+      "country_label": "South Africa",
+      "id": "6953beec-2ca3-5332-b468-f1391fbad41f"
+    },
+    {
+      "rank": 2,
+      "title": "Pirates Choice",
+      "release_year": 1989,
+      "artist_credit": "Orchestra Baobab",
+      "country_label": "Senegal",
+      "id": "6e762c40-ab90-5bc0-8b41-9e95be472ad8"
+    },
+    {
+      "rank": 3,
+      "title": "Banat Keteer",
+      "release_year": null,
+      "artist_credit": "El Masreyeen",
+      "country_label": "Egypt",
+      "id": "b1f87a8e-6bc2-53d7-b825-3d8649529f41"
+    },
+    {
+      "rank": 4,
+      "title": "African Giant",
+      "release_year": 2019,
+      "artist_credit": "Burna Boy",
+      "country_label": "Nigeria",
+      "id": "39d940e4-09b3-5870-bef8-e549612986a6"
+    },
+    {
+      "rank": 5,
+      "title": "Emotion",
+      "release_year": 1995,
+      "artist_credit": "Papa Wemba",
+      "country_label": "Democratic Republic of Congo",
+      "id": "a5ba5fc2-f671-5ce2-a0af-dd5043e2a2c6"
+    },
+    {
+      "rank": 6,
+      "title": "Miss Perfumado",
+      "release_year": 1992,
+      "artist_credit": "Cesária Évora",
+      "country_label": "Cape Verde",
+      "id": "9989c936-f9d1-5f50-8a29-7b117e71704c"
+    },
+    {
+      "rank": 7,
+      "title": "Afrikan Sauce",
+      "release_year": 2019,
+      "artist_credit": "Sauti Sol",
+      "country_label": "Kenya",
+      "id": "37d4bda7-8782-5973-ad43-2ab067f3891a"
+    },
+    {
+      "rank": 8,
+      "title": "Scenes From My Life",
+      "release_year": 1999,
+      "artist_credit": "Richard Bona",
+      "country_label": "Cameroon",
+      "id": "113c52ab-243c-5e41-9e89-74e639ee3735"
+    },
+    {
+      "rank": 9,
+      "title": "Nhava",
+      "release_year": 2005,
+      "artist_credit": "Oliver Mtukudzi",
+      "country_label": "Zimbabwe",
+      "id": "d921de7c-395b-5e8a-b276-42425552cfbb"
+    },
+    {
+      "rank": 10,
+      "title": "The Villain I Never Was",
+      "release_year": 2022,
+      "artist_credit": "Black Sherif",
+      "country_label": "Ghana",
+      "id": "cf0c3e8b-c164-5dd0-ae4e-0606149279ed"
+    },
+    {
+      "rank": 11,
+      "title": "Fatou",
+      "release_year": 2011,
+      "artist_credit": "Fatoumata Diawara",
+      "country_label": "Mali",
+      "id": "954fcf21-dd03-5797-a501-b7c8cf3b0539"
+    },
+    {
+      "rank": 12,
+      "title": "People of the Land",
+      "release_year": 2025,
+      "artist_credit": "Kenneth Mugabi",
+      "country_label": "Uganda",
+      "id": "6b286f8e-c6eb-5996-b326-093f0f7241f9"
+    },
+    {
+      "rank": 13,
+      "title": "Deran",
+      "release_year": 2018,
+      "artist_credit": "Bombino",
+      "country_label": "Niger",
+      "id": "e736ac70-c27f-5345-9614-9f62cd601686"
+    },
+    {
+      "rank": 14,
+      "title": "Live At The Bassline",
+      "release_year": 2004,
+      "artist_credit": "Tumi and the Volume",
+      "country_label": "Mozambique",
+      "id": "93341244-4807-56c5-b0c4-4d3b43404f85"
+    },
+    {
+      "rank": 15,
+      "title": "Revolution",
+      "release_year": 1987,
+      "artist_credit": "Alpha Blondy",
+      "country_label": "Côte d’Ivoire",
+      "id": "dece1150-809b-5527-9a62-98602e438dd2"
+    },
+    {
+      "rank": 16,
+      "title": "Héritage",
+      "release_year": 2024,
+      "artist_credit": "Dadju & Tayc",
+      "country_label": "French Congolese",
+      "id": "cf1366fc-c083-595e-9d05-8dafdcd56fd3"
+    },
+    {
+      "rank": 17,
+      "title": "Mzansi Beat Code",
+      "release_year": 2017,
+      "artist_credit": "Spoek Mathambo",
+      "country_label": "South Africa",
+      "id": "79467d45-8cfb-5b8b-8b6f-c4b77639e039"
+    },
+    {
+      "rank": 18,
+      "title": "Alusa Why Are You Topless?",
+      "release_year": null,
+      "artist_credit": "Bien",
+      "country_label": "Kenya",
+      "id": "c7ced4dc-dd1f-57c6-996e-5f1500b13837"
+    },
+    {
+      "rank": 19,
+      "title": "Sahra",
+      "release_year": 1996,
+      "artist_credit": "Khaled",
+      "country_label": "Algeria",
+      "id": "05c73c6f-a298-555e-938a-3c36378c954e"
+    },
+    {
+      "rank": 20,
+      "title": "Manga",
+      "release_year": 2019,
+      "artist_credit": "Mayra Andrade",
+      "country_label": "Cabo Verde",
+      "id": "d3590625-dade-58f9-8b8b-c565a4e3f6ab"
+    },
+    {
+      "rank": 21,
+      "title": "Pata Pata",
+      "release_year": 1967,
+      "artist_credit": "Miriam Makeba",
+      "country_label": "South Africa",
+      "id": "cdf842ff-d3d7-518c-8a1e-cd52fda6f9ce"
+    },
+    {
+      "rank": 22,
+      "title": "Muslims & Christians",
+      "release_year": null,
+      "artist_credit": "Kamal Keila",
+      "country_label": "Sudan",
+      "id": "f2e3df7a-4a4d-50d9-8038-974e0c7ec921"
+    },
+    {
+      "rank": 23,
+      "title": "Streams Today… Rivers tomorrow",
+      "release_year": null,
+      "artist_credit": "Caiphus Semenya",
+      "country_label": "South Africa",
+      "id": "1419b6b7-f24a-52c2-bd2d-2ceb75e329eb"
+    },
+    {
+      "rank": 24,
+      "title": "Tendon",
+      "release_year": 2016,
+      "artist_credit": "Reniss",
+      "country_label": "Cameroon",
+      "id": "d838abb3-2e9f-50b7-8b64-9fee42dded56"
+    },
+    {
+      "rank": 25,
+      "title": "The Boy’s Doin It",
+      "release_year": null,
+      "artist_credit": "Hugh Masekela",
+      "country_label": "South Africa",
+      "id": "656a6e4b-5892-5dce-9bbd-c8b77b8ed38a"
+    },
+    {
+      "rank": 26,
+      "title": "Live in Addis Ababa",
+      "release_year": null,
+      "artist_credit": "Mohamed Wardi",
+      "country_label": "Sudan",
+      "id": "14949c06-f860-5f22-b728-94e8a1c56933"
+    },
+    {
+      "rank": 27,
+      "title": "King of Kwasa Kwasa",
+      "release_year": null,
+      "artist_credit": "Kanda Bongo Man",
+      "country_label": "DR Congo",
+      "id": "bab1cb1a-42c9-5c77-bada-c4e8f18a47c2"
+    },
+    {
+      "rank": 28,
+      "title": "Made in Lagos",
+      "release_year": 2020,
+      "artist_credit": "Wizkid",
+      "country_label": "Nigeria",
+      "id": "babfb4d2-18a8-5469-8d77-885484dd85c1"
+    },
+    {
+      "rank": 29,
+      "title": "The Very Best of Osibisa",
+      "release_year": null,
+      "artist_credit": "Osibisa",
+      "country_label": "Ghana-Caribbean-Britain",
+      "id": "71b3fbd2-9bd2-5a1e-ab28-baf72f0f1378"
+    },
+    {
+      "rank": 30,
+      "title": "Memeza",
+      "release_year": 1998,
+      "artist_credit": "Brenda Fassie",
+      "country_label": "South Africa",
+      "id": "2e6c42b1-3a9c-5242-a668-61ff3b96f1e5"
+    },
+    {
+      "rank": 31,
+      "title": "Beasts of No Nation",
+      "release_year": 1989,
+      "artist_credit": "Fela Kuti",
+      "country_label": "Nigeria",
+      "id": "71a3353f-6785-56fd-8ed3-a5ea43e9b024"
+    },
+    {
+      "rank": 32,
+      "title": "Infinity",
+      "release_year": null,
+      "artist_credit": "Magasco",
+      "country_label": "Cameroon",
+      "id": "b26e5398-99bf-584c-bcd7-a0a4a5b4b911"
+    },
+    {
+      "rank": 33,
+      "title": "Songhai",
+      "release_year": 1988,
+      "artist_credit": "Danny Thompson, Ketama, and Toumani Diabaté",
+      "country_label": "Mali",
+      "id": "470e7f61-a073-5a6a-aebe-4dde8b230fe7"
+    },
+    {
+      "rank": 34,
+      "title": "Soro",
+      "release_year": 1987,
+      "artist_credit": "Salif Keita",
+      "country_label": "Mali",
+      "id": "eeec4d3d-2c44-505a-82f8-b1e5d6dac81d"
+    },
+    {
+      "rank": 35,
+      "title": "Synthesized Sudan: Astro-Nubian Electronic Jaglara",
+      "release_year": null,
+      "artist_credit": "Jantra",
+      "country_label": "Sudan",
+      "id": "1bd4c45b-2e6f-5913-ad45-6dc76bdce0d0"
+    },
+    {
+      "rank": 36,
+      "title": "Biology",
+      "release_year": 2017,
+      "artist_credit": "Eddy Kenzo",
+      "country_label": "Uganda",
+      "id": "6a76006d-03b7-5a80-ac3a-0c592bb25793"
+    },
+    {
+      "rank": 37,
+      "title": "Lost in Time",
+      "release_year": 2012,
+      "artist_credit": "Khuli Chana",
+      "country_label": "South Africa",
+      "id": "7345e142-38ae-5156-884d-c5947a677971"
+    },
+    {
+      "rank": 38,
+      "title": "Mowlanan",
+      "release_year": null,
+      "artist_credit": "Petit Yero Bantinghel",
+      "country_label": "Guinea",
+      "id": "65c5703c-e3cb-50cc-aa1c-dd26ffbd894b"
+    },
+    {
+      "rank": 39,
+      "title": "Droit Chemin",
+      "release_year": 2006,
+      "artist_credit": "Fally Ipupa",
+      "country_label": "DR Congo",
+      "id": "efdc2385-c96b-55b5-82e1-ed78cd4d9e4d"
+    },
+    {
+      "rank": 40,
+      "title": "Levels",
+      "release_year": 2014,
+      "artist_credit": "AKA",
+      "country_label": "South Africa",
+      "id": "cae0eba3-537d-50b7-9ee2-3e951eab2a39"
+    },
+    {
+      "rank": 41,
+      "title": "Mabrul",
+      "release_year": null,
+      "artist_credit": "Aziza Brahim",
+      "country_label": "Algeria",
+      "id": "6018f717-ad32-5d9b-9908-d794501bde44"
+    },
+    {
+      "rank": 42,
+      "title": "Dança Ma Mi Criola",
+      "release_year": 1994,
+      "artist_credit": "Tito Paris",
+      "country_label": "Cabo Verde",
+      "id": "34225688-6073-5258-a5d5-d803d2e05f2a"
+    },
+    {
+      "rank": 43,
+      "title": "Senegal",
+      "release_year": null,
+      "artist_credit": "Ismaël Lô",
+      "country_label": "Senegal",
+      "id": "c677ce39-f36b-5f0f-b073-83e62874aea7"
+    },
+    {
+      "rank": 44,
+      "title": "Fasiya",
+      "release_year": 2011,
+      "artist_credit": "Sona Jobarteh",
+      "country_label": "Gambia",
+      "id": "04884f6d-b92e-5f85-9a8c-ffa113715103"
+    },
+    {
+      "rank": 45,
+      "title": "Chatma",
+      "release_year": 2013,
+      "artist_credit": "Tamikrest",
+      "country_label": "Mali",
+      "id": "094f94f5-91ee-5062-98ca-c4f887526597"
+    },
+    {
+      "rank": 46,
+      "title": "La Confusion",
+      "release_year": 2017,
+      "artist_credit": "Amadou & Mariam",
+      "country_label": "Mali",
+      "id": "e8802df7-2696-50f8-b39a-79d16061d9f5"
+    },
+    {
+      "rank": 47,
+      "title": "Shoki Shoki",
+      "release_year": 1998,
+      "artist_credit": "Femi Kuti",
+      "country_label": "Nigeria",
+      "id": "2e72f964-baa9-50ec-80f8-7c14d3482ba2"
+    },
+    {
+      "rank": 48,
+      "title": "Mama Africa",
+      "release_year": 2016,
+      "artist_credit": "Yemi Alade",
+      "country_label": "Nigeria",
+      "id": "1616dfda-ea74-507f-a93c-706310c5a866"
+    },
+    {
+      "rank": 49,
+      "title": "Rave & Roses",
+      "release_year": 2022,
+      "artist_credit": "Rema",
+      "country_label": "Nigeria",
+      "id": "5eb256cf-7790-53db-8618-b2b3c166ca58"
+    },
+    {
+      "rank": 50,
+      "title": "Nomvula",
+      "release_year": 2004,
+      "artist_credit": "Freshlyground",
+      "country_label": "South Africa",
+      "id": "c07d3207-0259-5674-b89f-87ee0afdb741"
+    },
+    {
+      "rank": 51,
+      "title": "Tidet",
+      "release_year": 2024,
+      "artist_credit": "Amaka Jaji",
+      "country_label": "Libya",
+      "id": "580a2cf2-acd5-59a8-bdce-1eaab876ec06"
+    },
+    {
+      "rank": 52,
+      "title": "Di Korpu Ku Alma",
+      "release_year": 2004,
+      "artist_credit": "Lura",
+      "country_label": "Cabo Verde",
+      "id": "b60fe03c-e5a1-5a22-aef8-9e69863b8b62"
+    },
+    {
+      "rank": 53,
+      "title": "World (The Man and The God)",
+      "release_year": null,
+      "artist_credit": "Senkulive and Worlasi",
+      "country_label": "Ghana",
+      "id": "3c145291-49bf-55a1-aac1-da2efe0a84f6"
+    },
+    {
+      "rank": 54,
+      "title": "Isiphithiphithi",
+      "release_year": null,
+      "artist_credit": "Samthing Soweto",
+      "country_label": "South Africa",
+      "id": "3dfcca3d-cf2f-5932-8f23-adf87f92f3cb"
+    },
+    {
+      "rank": 55,
+      "title": "Franco et le tout puissant OK Jazz",
+      "release_year": null,
+      "artist_credit": "Franco Luambo and Tpok Jazz",
+      "country_label": "DR Congo",
+      "id": "c13afffc-e87b-588e-9dc7-9c7c7c55a76f"
+    },
+    {
+      "rank": 56,
+      "title": "Expressions",
+      "release_year": null,
+      "artist_credit": "Styl-Plus",
+      "country_label": "Nigeria",
+      "id": "03e8aad7-85f5-5096-a7f0-7b40c96bc84c"
+    },
+    {
+      "rank": 57,
+      "title": "Black Butterfly",
+      "release_year": null,
+      "artist_credit": "TK",
+      "country_label": "South Africa",
+      "id": "7eb4a659-99d4-5258-bb3d-66e9b0fdab5c"
+    },
+    {
+      "rank": 58,
+      "title": "Shababeek",
+      "release_year": null,
+      "artist_credit": "Mohamed Mounir",
+      "country_label": "Egypt",
+      "id": "6aef95c7-ccab-51e2-ade4-151e4a134940"
+    },
+    {
+      "rank": 59,
+      "title": "Someone Had to Do It",
+      "release_year": 2018,
+      "artist_credit": "Takura",
+      "country_label": "Zimbabwe",
+      "id": "c1050bda-5932-578c-baee-cc675103e2e6"
+    },
+    {
+      "rank": 60,
+      "title": "Boy Alone (Deluxe)",
+      "release_year": null,
+      "artist_credit": "Omah Lay",
+      "country_label": "Nigeria",
+      "id": "4e0591d3-de26-5fa0-92b6-837ed7ea1b7b"
+    },
+    {
+      "rank": 61,
+      "title": "Mbalimaou",
+      "release_year": 2015,
+      "artist_credit": "Boubacar Traoré",
+      "country_label": "Mali",
+      "id": "89dabf17-5cb0-59b3-983a-9681a2e525fb"
+    },
+    {
+      "rank": 62,
+      "title": "Street Ties",
+      "release_year": null,
+      "artist_credit": "Conboi Cannabino",
+      "country_label": "Tanzania",
+      "id": "aabb44e2-d84f-5ba1-a17a-5d1dbce13156"
+    },
+    {
+      "rank": 63,
+      "title": "Umthombo Wamanzi",
+      "release_year": 1988,
+      "artist_credit": "Ladysmith Black Mambazo",
+      "country_label": "South Africa",
+      "id": "09ea066e-dcc7-5e12-8d60-261e442ebe40"
+    },
+    {
+      "rank": 64,
+      "title": "Blk Sonshine",
+      "release_year": null,
+      "artist_credit": "Blk Sonshine",
+      "country_label": "Malawi and South Africa",
+      "id": "69c00226-2501-5bbb-ae43-5ee69ea6f44c"
+    },
+    {
+      "rank": 65,
+      "title": "Asa",
+      "release_year": null,
+      "artist_credit": "Asa",
+      "country_label": "Nigeria",
+      "id": "1ac3f19e-bc1b-5c5e-87bd-30fabe3ee11b"
+    },
+    {
+      "rank": 66,
+      "title": "Afriki",
+      "release_year": 2007,
+      "artist_credit": "Habib Koité",
+      "country_label": "Mali",
+      "id": "b3e8d16f-d77b-5260-93e5-2f3f59d089fd"
+    },
+    {
+      "rank": 67,
+      "title": "Game Over",
+      "release_year": 2007,
+      "artist_credit": "P-Square",
+      "country_label": "Nigeria",
+      "id": "74e49c7a-b595-5b6f-a2ec-eda3ebf99edf"
+    },
+    {
+      "rank": 68,
+      "title": "Out of the Ashes",
+      "release_year": 1996,
+      "artist_credit": "Stimela",
+      "country_label": "South Africa",
+      "id": "ed1bc580-62f0-510a-a07d-b6cf3786210e"
+    },
+    {
+      "rank": 69,
+      "title": "Midnight Train",
+      "release_year": 2020,
+      "artist_credit": "Sauti Sol",
+      "country_label": "Kenya",
+      "id": "02484d15-3147-521b-9ed4-63212522e589"
+    },
+    {
+      "rank": 70,
+      "title": "Obaa Sima",
+      "release_year": 2015,
+      "artist_credit": "Ata Kak",
+      "country_label": "Ghana",
+      "id": "5c60fe68-c382-59ec-b60e-704978cbad87"
+    },
+    {
+      "rank": 71,
+      "title": "Angola 72/74",
+      "release_year": null,
+      "artist_credit": "Bonga",
+      "country_label": "Algeria",
+      "id": "c63a852b-5865-5d30-9389-26f07d30d66b"
+    },
+    {
+      "rank": 72,
+      "title": "Carambola",
+      "release_year": 1983,
+      "artist_credit": "África Negra",
+      "country_label": "São Tomé and Príncipe",
+      "id": "7f1b4270-66f1-5007-8ddb-9d88ca1be2dd"
+    },
+    {
+      "rank": 73,
+      "title": "Work of Art",
+      "release_year": 2023,
+      "artist_credit": "Asake",
+      "country_label": "Nigeria",
+      "id": "8d656fa5-34ab-522e-bd4f-1672e8ff8204"
+    },
+    {
+      "rank": 74,
+      "title": "Mondongo",
+      "release_year": 2013,
+      "artist_credit": "Awilo Longomba",
+      "country_label": "DR Congo",
+      "id": "c6c5dcde-5ff5-5145-a47d-ded327e8d4a2"
+    },
+    {
+      "rank": 75,
+      "title": "Premier Gaou",
+      "release_year": 2021,
+      "artist_credit": "Magic System",
+      "country_label": "Côte d’Ivoire",
+      "id": "ae7beb80-0bce-524f-8a0c-cc672791039e"
+    },
+    {
+      "rank": 76,
+      "title": "Celia",
+      "release_year": 2020,
+      "artist_credit": "Tiwa Savage",
+      "country_label": "Nigeria",
+      "id": "dc44612e-b4ac-512f-b16f-3b70881a96e4"
+    },
+    {
+      "rank": 77,
+      "title": "Pretaluz",
+      "release_year": 1998,
+      "artist_credit": "Waldemar Bastos",
+      "country_label": "Angola",
+      "id": "fd62a05a-df89-5b71-90d3-3d7d2de11fb8"
+    },
+    {
+      "rank": 78,
+      "title": "O Melhor de David Zé",
+      "release_year": 2019,
+      "artist_credit": "David Zé",
+      "country_label": "Angola",
+      "id": "113cbc9b-5308-53ff-ba3f-fd00284a29ed"
+    },
+    {
+      "rank": 79,
+      "title": "There’s Music in The Air",
+      "release_year": null,
+      "artist_credit": "Letta Mbulu",
+      "country_label": "South Africa",
+      "id": "5f638db6-06b5-5a15-b037-14e477baf5be"
+    },
+    {
+      "rank": 80,
+      "title": "Timeless",
+      "release_year": 2023,
+      "artist_credit": "Davido",
+      "country_label": "Nigeria",
+      "id": "746510b2-3c22-58ca-9b16-d4ea9348aba3"
+    },
+    {
+      "rank": 81,
+      "title": "Deviation Sexy Soukouss",
+      "release_year": 1993,
+      "artist_credit": "Yondo Sister",
+      "country_label": "DR Congo",
+      "id": "37a765bf-7f99-5342-8fb5-cbcc2d3d5430"
+    },
+    {
+      "rank": 82,
+      "title": "Grass 2 Grace",
+      "release_year": 2006,
+      "artist_credit": "2Baba",
+      "country_label": "Nigeria",
+      "id": "e3c5dc11-0892-5522-8b4d-6e7e40e78db8"
+    },
+    {
+      "rank": 83,
+      "title": "Zabalaza",
+      "release_year": null,
+      "artist_credit": "Thandiswa Mazwai",
+      "country_label": "South Africa",
+      "id": "89cf8670-1104-59d2-9fcc-9ad40fbe30ff"
+    },
+    {
+      "rank": 84,
+      "title": "Immigrés",
+      "release_year": null,
+      "artist_credit": "Youssou N'Dour",
+      "country_label": "Sénégal",
+      "id": "4da7e337-0675-5b06-b706-a67967abf6e8"
+    },
+    {
+      "rank": 85,
+      "title": "Best of Lucky Dube",
+      "release_year": 1995,
+      "artist_credit": "Lucky Dube",
+      "country_label": "South Africa",
+      "id": "5b30d8b5-c9c0-565c-a823-4ff7d0203a4b"
+    },
+    {
+      "rank": 86,
+      "title": "V12",
+      "release_year": null,
+      "artist_credit": "Koffi Olomide",
+      "country_label": "DR Congo",
+      "id": "6aafc95d-6ff3-5745-af1d-4db4167bed80"
+    },
+    {
+      "rank": 87,
+      "title": "Rapperholic",
+      "release_year": 2012,
+      "artist_credit": "Sarkodie",
+      "country_label": "Ghana",
+      "id": "a463f7b9-2c11-5b47-9804-35112dfea5c7"
+    },
+    {
+      "rank": 88,
+      "title": "One Understanding",
+      "release_year": 1979,
+      "artist_credit": "Christy Essien-Igbokwe",
+      "country_label": "Nigeria",
+      "id": "3c456694-8b48-5b0a-a9d9-4932a143b207"
+    },
+    {
+      "rank": 89,
+      "title": "Djonsinho Cabral",
+      "release_year": 1979,
+      "artist_credit": "Os Tubarões",
+      "country_label": "Cabo Verde",
+      "id": "54d8c568-69a1-5e93-89b7-125f6d4714a6"
+    },
+    {
+      "rank": 90,
+      "title": "IImini",
+      "release_year": 2020,
+      "artist_credit": "Bongeziwe Mabandla",
+      "country_label": "South Africa",
+      "id": "31918605-22eb-5455-b6ca-7a0a7766e748"
+    },
+    {
+      "rank": 91,
+      "title": "Halloween",
+      "release_year": 1998,
+      "artist_credit": "TKZee",
+      "country_label": "South Africa",
+      "id": "1f10b2dc-fc09-5783-9a4a-90bba73abb6f"
+    },
+    {
+      "rank": 92,
+      "title": "Loliwe",
+      "release_year": 2011,
+      "artist_credit": "Zahara",
+      "country_label": "South Africa",
+      "id": "e84237f5-03d0-5f67-a076-b47b0f0c2d23"
+    },
+    {
+      "rank": 93,
+      "title": "Soul Makossa",
+      "release_year": 1973,
+      "artist_credit": "Manu Dibango",
+      "country_label": "Cameroon",
+      "id": "ec8bf00f-f7f4-56ea-9d7d-0dff1aa44eca"
+    },
+    {
+      "rank": 94,
+      "title": "Promise",
+      "release_year": 1985,
+      "artist_credit": "Sade",
+      "country_label": "Nigerian-born",
+      "id": "8a2de3d6-fe9a-5ee8-89f7-b14beb5f1560"
+    },
+    {
+      "rank": 95,
+      "title": "For Broken Ears",
+      "release_year": 2020,
+      "artist_credit": "Tems",
+      "country_label": "Nigeria",
+      "id": "2c0a9e06-3c77-5443-a5b7-a5145230318c"
+    },
+    {
+      "rank": 96,
+      "title": "Sankofa",
+      "release_year": 2023,
+      "artist_credit": "Azawi",
+      "country_label": "Uganda",
+      "id": "970b990e-0204-5848-b3f2-0e4564376900"
+    },
+    {
+      "rank": 97,
+      "title": "Love Sounds Different",
+      "release_year": null,
+      "artist_credit": "Barnaba Classic",
+      "country_label": "Tanzania",
+      "id": "80c365bd-a3e4-500c-b9e6-975ddda1e2fe"
+    },
+    {
+      "rank": 98,
+      "title": "KOA",
+      "release_year": null,
+      "artist_credit": "Kabza De Small",
+      "country_label": "South Africa",
+      "id": "56b1c634-68cf-5f16-8ef4-869de20334e2"
+    },
+    {
+      "rank": 99,
+      "title": "King Cairo",
+      "release_year": null,
+      "artist_credit": "MC Cairo",
+      "country_label": "Liberia",
+      "id": "52c3d9fa-294b-57b1-9909-6965facef9ba"
+    },
+    {
+      "rank": 100,
+      "title": "Strings and Bling",
+      "release_year": 2018,
+      "artist_credit": "Nasty C",
+      "country_label": "South Africa",
+      "id": "302f9cf8-8ee6-563a-aff8-01de94ff9328"
+    }
+  ]
+}

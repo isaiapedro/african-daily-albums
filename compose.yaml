@@ -1,0 +1,21 @@
+services:
+  app:
+    build:
+      context: ./api
+    restart: unless-stopped
+    environment:
+      ALBUM_JOURNEY_DB: /data/african_album_journey.db
+    volumes:
+      - app_data:/data
+    network_mode: host
+    mem_limit: ${APP_MEMORY_LIMIT:-128m}
+    cpus: ${APP_CPU_LIMIT:-0.50}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:5175/health')"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+      start_period: 5s
+
+volumes:
+  app_data:

@@ -1,0 +1,453 @@
+{
+  "schema_version": 1,
+  "provider": "MusicBrainz",
+  "items": {
+    "6953beec-2ca3-5332-b468-f1391fbad41f": {
+      "musicbrainz_release_group_id": "efb32965-9600-4df5-9f67-4777f32dbd5f",
+      "source_url": "https://musicbrainz.org/release-group/efb32965-9600-4df5-9f67-4777f32dbd5f",
+      "first_release_date": "2018-04-20",
+      "release_year": 2018
+    },
+    "6e762c40-ab90-5bc0-8b41-9e95be472ad8": {
+      "musicbrainz_release_group_id": "aae359c3-de20-31e2-a157-3c5a1b747aeb",
+      "source_url": "https://musicbrainz.org/release-group/aae359c3-de20-31e2-a157-3c5a1b747aeb",
+      "first_release_date": "1989",
+      "release_year": 1989
+    },
+    "39d940e4-09b3-5870-bef8-e549612986a6": {
+      "musicbrainz_release_group_id": "84444c7d-ef0e-433e-b649-72f71c054eb6",
+      "source_url": "https://musicbrainz.org/release-group/84444c7d-ef0e-433e-b649-72f71c054eb6",
+      "first_release_date": "2019-07-25",
+      "release_year": 2019
+    },
+    "a5ba5fc2-f671-5ce2-a0af-dd5043e2a2c6": {
+      "musicbrainz_release_group_id": "c51c8399-8168-3aab-99f0-2472b752fd36",
+      "source_url": "https://musicbrainz.org/release-group/c51c8399-8168-3aab-99f0-2472b752fd36",
+      "first_release_date": "1995-03-13",
+      "release_year": 1995
+    },
+    "9989c936-f9d1-5f50-8a29-7b117e71704c": {
+      "musicbrainz_release_group_id": "be6e9478-a32d-3a5f-9ad0-f0be447ac42d",
+      "source_url": "https://musicbrainz.org/release-group/be6e9478-a32d-3a5f-9ad0-f0be447ac42d",
+      "first_release_date": "1992-06",
+      "release_year": 1992
+    },
+    "37d4bda7-8782-5973-ad43-2ab067f3891a": {
+      "musicbrainz_release_group_id": "159573d1-aa09-44fb-aba1-227b8c9a52a6",
+      "source_url": "https://musicbrainz.org/release-group/159573d1-aa09-44fb-aba1-227b8c9a52a6",
+      "first_release_date": "2019-01-31",
+      "release_year": 2019
+    },
+    "113c52ab-243c-5e41-9e89-74e639ee3735": {
+      "musicbrainz_release_group_id": "d252b876-c21d-3bae-8359-6872f3b7af7c",
+      "source_url": "https://musicbrainz.org/release-group/d252b876-c21d-3bae-8359-6872f3b7af7c",
+      "first_release_date": "1999-08-24",
+      "release_year": 1999
+    },
+    "d921de7c-395b-5e8a-b276-42425552cfbb": {
+      "musicbrainz_release_group_id": "8ca7d656-2492-324b-b57b-e00bb12c2cd8",
+      "source_url": "https://musicbrainz.org/release-group/8ca7d656-2492-324b-b57b-e00bb12c2cd8",
+      "first_release_date": "2005-04-26",
+      "release_year": 2005
+    },
+    "cf0c3e8b-c164-5dd0-ae4e-0606149279ed": {
+      "musicbrainz_release_group_id": "06b5b2aa-2621-4574-bf34-0b69b25f33f5",
+      "source_url": "https://musicbrainz.org/release-group/06b5b2aa-2621-4574-bf34-0b69b25f33f5",
+      "first_release_date": "2022-10-05",
+      "release_year": 2022
+    },
+    "954fcf21-dd03-5797-a501-b7c8cf3b0539": {
+      "musicbrainz_release_group_id": "bfc43385-a1f9-4ae6-9ea7-c9a3f25042c1",
+      "source_url": "https://musicbrainz.org/release-group/bfc43385-a1f9-4ae6-9ea7-c9a3f25042c1",
+      "first_release_date": "2011-09-19",
+      "release_year": 2011
+    },
+    "6b286f8e-c6eb-5996-b326-093f0f7241f9": {
+      "musicbrainz_release_group_id": "116207e0-bd1f-417b-b06a-afde98f21420",
+      "source_url": "https://musicbrainz.org/release-group/116207e0-bd1f-417b-b06a-afde98f21420",
+      "first_release_date": "2025-09-03",
+      "release_year": 2025
+    },
+    "e736ac70-c27f-5345-9614-9f62cd601686": {
+      "musicbrainz_release_group_id": "6cb9277b-e928-4da3-b72f-1199dc5ed2a2",
+      "source_url": "https://musicbrainz.org/release-group/6cb9277b-e928-4da3-b72f-1199dc5ed2a2",
+      "first_release_date": "2018-05-18",
+      "release_year": 2018
+    },
+    "93341244-4807-56c5-b0c4-4d3b43404f85": {
+      "musicbrainz_release_group_id": "cdaa4dac-7b16-3746-a204-bcc7931ff2cd",
+      "source_url": "https://musicbrainz.org/release-group/cdaa4dac-7b16-3746-a204-bcc7931ff2cd",
+      "first_release_date": "2004",
+      "release_year": 2004
+    },
+    "dece1150-809b-5527-9a62-98602e438dd2": {
+      "musicbrainz_release_group_id": "691e286a-7908-34f3-8f4c-39afb354af71",
+      "source_url": "https://musicbrainz.org/release-group/691e286a-7908-34f3-8f4c-39afb354af71",
+      "first_release_date": "1987",
+      "release_year": 1987
+    },
+    "cf1366fc-c083-595e-9d05-8dafdcd56fd3": {
+      "musicbrainz_release_group_id": "8b8befbe-54fa-4a0a-a7c6-31f6134920c7",
+      "source_url": "https://musicbrainz.org/release-group/8b8befbe-54fa-4a0a-a7c6-31f6134920c7",
+      "first_release_date": "2024-02-16",
+      "release_year": 2024
+    },
+    "79467d45-8cfb-5b8b-8b6f-c4b77639e039": {
+      "musicbrainz_release_group_id": "c0c08af5-5c0b-44f2-881d-beae2421e3d7",
+      "source_url": "https://musicbrainz.org/release-group/c0c08af5-5c0b-44f2-881d-beae2421e3d7",
+      "first_release_date": "2017-04-14",
+      "release_year": 2017
+    },
+    "05c73c6f-a298-555e-938a-3c36378c954e": {
+      "musicbrainz_release_group_id": "e8259c33-09c8-3193-9849-26ea783ee7d9",
+      "source_url": "https://musicbrainz.org/release-group/e8259c33-09c8-3193-9849-26ea783ee7d9",
+      "first_release_date": "1996-11-08",
+      "release_year": 1996
+    },
+    "d3590625-dade-58f9-8b8b-c565a4e3f6ab": {
+      "musicbrainz_release_group_id": "dcf08883-de31-45c1-8d8d-aa7c9a14cf1f",
+      "source_url": "https://musicbrainz.org/release-group/dcf08883-de31-45c1-8d8d-aa7c9a14cf1f",
+      "first_release_date": "2019-02-08",
+      "release_year": 2019
+    },
+    "cdf842ff-d3d7-518c-8a1e-cd52fda6f9ce": {
+      "musicbrainz_release_group_id": "eec1d93a-3a21-3d97-987f-2f24b69772b6",
+      "source_url": "https://musicbrainz.org/release-group/eec1d93a-3a21-3d97-987f-2f24b69772b6",
+      "first_release_date": "1967",
+      "release_year": 1967
+    },
+    "d838abb3-2e9f-50b7-8b64-9fee42dded56": {
+      "musicbrainz_release_group_id": "bbd0062f-1afc-4b56-9a16-9aa4297e5b3f",
+      "source_url": "https://musicbrainz.org/release-group/bbd0062f-1afc-4b56-9a16-9aa4297e5b3f",
+      "first_release_date": "2016-10-24",
+      "release_year": 2016
+    },
+    "babfb4d2-18a8-5469-8d77-885484dd85c1": {
+      "musicbrainz_release_group_id": "a29e4711-741e-4576-af2d-bf00ab8a5538",
+      "source_url": "https://musicbrainz.org/release-group/a29e4711-741e-4576-af2d-bf00ab8a5538",
+      "first_release_date": "2020-10-29",
+      "release_year": 2020
+    },
+    "2e6c42b1-3a9c-5242-a668-61ff3b96f1e5": {
+      "musicbrainz_release_group_id": "6db5ba63-2e23-3012-8083-c07a33ab9a2a",
+      "source_url": "https://musicbrainz.org/release-group/6db5ba63-2e23-3012-8083-c07a33ab9a2a",
+      "first_release_date": "1998",
+      "release_year": 1998
+    },
+    "71a3353f-6785-56fd-8ed3-a5ea43e9b024": {
+      "musicbrainz_release_group_id": "350a980b-7dea-42df-b3db-c9f158fcc520",
+      "source_url": "https://musicbrainz.org/release-group/350a980b-7dea-42df-b3db-c9f158fcc520",
+      "first_release_date": "1989",
+      "release_year": 1989
+    },
+    "470e7f61-a073-5a6a-aebe-4dde8b230fe7": {
+      "musicbrainz_release_group_id": "229156df-ee1e-3d0e-8804-08405dbc23bc",
+      "source_url": "https://musicbrainz.org/release-group/229156df-ee1e-3d0e-8804-08405dbc23bc",
+      "first_release_date": "1988",
+      "release_year": 1988
+    },
+    "eeec4d3d-2c44-505a-82f8-b1e5d6dac81d": {
+      "musicbrainz_release_group_id": "49458543-b113-3baa-b230-c38bed73d561",
+      "source_url": "https://musicbrainz.org/release-group/49458543-b113-3baa-b230-c38bed73d561",
+      "first_release_date": "1987-10-14",
+      "release_year": 1987
+    },
+    "6a76006d-03b7-5a80-ac3a-0c592bb25793": {
+      "musicbrainz_release_group_id": "52210e9b-9def-4ccc-a7ed-290edd530be4",
+      "source_url": "https://musicbrainz.org/release-group/52210e9b-9def-4ccc-a7ed-290edd530be4",
+      "first_release_date": "2017-07-10",
+      "release_year": 2017
+    },
+    "7345e142-38ae-5156-884d-c5947a677971": {
+      "musicbrainz_release_group_id": "796f2fe6-28a4-40ae-96db-145bb73b0465",
+      "source_url": "https://musicbrainz.org/release-group/796f2fe6-28a4-40ae-96db-145bb73b0465",
+      "first_release_date": "2012-11-19",
+      "release_year": 2012
+    },
+    "efdc2385-c96b-55b5-82e1-ed78cd4d9e4d": {
+      "musicbrainz_release_group_id": "d1d08d45-45fa-40d8-a027-b713060ac728",
+      "source_url": "https://musicbrainz.org/release-group/d1d08d45-45fa-40d8-a027-b713060ac728",
+      "first_release_date": "2006",
+      "release_year": 2006
+    },
+    "cae0eba3-537d-50b7-9ee2-3e951eab2a39": {
+      "musicbrainz_release_group_id": "b606cb28-358a-4a62-98da-4295e07738a8",
+      "source_url": "https://musicbrainz.org/release-group/b606cb28-358a-4a62-98da-4295e07738a8",
+      "first_release_date": "2014-06-30",
+      "release_year": 2014
+    },
+    "34225688-6073-5258-a5d5-d803d2e05f2a": {
+      "musicbrainz_release_group_id": "d88e1527-ff6d-4842-b2b1-ec6954052d84",
+      "source_url": "https://musicbrainz.org/release-group/d88e1527-ff6d-4842-b2b1-ec6954052d84",
+      "first_release_date": "1994",
+      "release_year": 1994
+    },
+    "04884f6d-b92e-5f85-9a8c-ffa113715103": {
+      "musicbrainz_release_group_id": "60e2d302-5382-4644-9e84-cbacca426f68",
+      "source_url": "https://musicbrainz.org/release-group/60e2d302-5382-4644-9e84-cbacca426f68",
+      "first_release_date": "2011-06-16",
+      "release_year": 2011
+    },
+    "094f94f5-91ee-5062-98ca-c4f887526597": {
+      "musicbrainz_release_group_id": "c33c1bca-4e14-4b38-ba5f-fe14a306fa74",
+      "source_url": "https://musicbrainz.org/release-group/c33c1bca-4e14-4b38-ba5f-fe14a306fa74",
+      "first_release_date": "2013-09-13",
+      "release_year": 2013
+    },
+    "e8802df7-2696-50f8-b39a-79d16061d9f5": {
+      "musicbrainz_release_group_id": "eac70251-6b1c-4cdf-a91b-781855dbb57d",
+      "source_url": "https://musicbrainz.org/release-group/eac70251-6b1c-4cdf-a91b-781855dbb57d",
+      "first_release_date": "2017-09-22",
+      "release_year": 2017
+    },
+    "2e72f964-baa9-50ec-80f8-7c14d3482ba2": {
+      "musicbrainz_release_group_id": "b1781d5b-2e2b-3c12-bb54-65020c864b69",
+      "source_url": "https://musicbrainz.org/release-group/b1781d5b-2e2b-3c12-bb54-65020c864b69",
+      "first_release_date": "1998-11-17",
+      "release_year": 1998
+    },
+    "1616dfda-ea74-507f-a93c-706310c5a866": {
+      "musicbrainz_release_group_id": "1fd6c9bb-db30-46c4-8492-6eceaed01baf",
+      "source_url": "https://musicbrainz.org/release-group/1fd6c9bb-db30-46c4-8492-6eceaed01baf",
+      "first_release_date": "2016-03-25",
+      "release_year": 2016
+    },
+    "5eb256cf-7790-53db-8618-b2b3c166ca58": {
+      "musicbrainz_release_group_id": "d9ce5deb-37e5-4fc6-997d-484ea4711836",
+      "source_url": "https://musicbrainz.org/release-group/d9ce5deb-37e5-4fc6-997d-484ea4711836",
+      "first_release_date": "2022-03-25",
+      "release_year": 2022
+    },
+    "c07d3207-0259-5674-b89f-87ee0afdb741": {
+      "musicbrainz_release_group_id": "8c6c7113-d9f1-3987-9bc1-026458e6f981",
+      "source_url": "https://musicbrainz.org/release-group/8c6c7113-d9f1-3987-9bc1-026458e6f981",
+      "first_release_date": "2004",
+      "release_year": 2004
+    },
+    "580a2cf2-acd5-59a8-bdce-1eaab876ec06": {
+      "musicbrainz_release_group_id": "2beb379d-51c7-420f-b390-03d330020489",
+      "source_url": "https://musicbrainz.org/release-group/2beb379d-51c7-420f-b390-03d330020489",
+      "first_release_date": "2024-04",
+      "release_year": 2024
+    },
+    "b60fe03c-e5a1-5a22-aef8-9e69863b8b62": {
+      "musicbrainz_release_group_id": "59dd0443-b244-368b-a0ff-fc6c90b6c33b",
+      "source_url": "https://musicbrainz.org/release-group/59dd0443-b244-368b-a0ff-fc6c90b6c33b",
+      "first_release_date": "2004-06-08",
+      "release_year": 2004
+    },
+    "c1050bda-5932-578c-baee-cc675103e2e6": {
+      "musicbrainz_release_group_id": "3d436297-9ab9-49ea-9469-9d860a13ca93",
+      "source_url": "https://musicbrainz.org/release-group/3d436297-9ab9-49ea-9469-9d860a13ca93",
+      "first_release_date": "2018-04-13",
+      "release_year": 2018
+    },
+    "89dabf17-5cb0-59b3-983a-9681a2e525fb": {
+      "musicbrainz_release_group_id": "31d1af87-6d89-434d-8625-6dbcf88a4b56",
+      "source_url": "https://musicbrainz.org/release-group/31d1af87-6d89-434d-8625-6dbcf88a4b56",
+      "first_release_date": "2015-01-26",
+      "release_year": 2015
+    },
+    "09ea066e-dcc7-5e12-8d60-261e442ebe40": {
+      "musicbrainz_release_group_id": "9476ee83-8731-3128-b6a6-5239b2e84bba",
+      "source_url": "https://musicbrainz.org/release-group/9476ee83-8731-3128-b6a6-5239b2e84bba",
+      "first_release_date": "1988",
+      "release_year": 1988
+    },
+    "b3e8d16f-d77b-5260-93e5-2f3f59d089fd": {
+      "musicbrainz_release_group_id": "a22dacac-1c08-3a4b-880c-3c732aa9e428",
+      "source_url": "https://musicbrainz.org/release-group/a22dacac-1c08-3a4b-880c-3c732aa9e428",
+      "first_release_date": "2007",
+      "release_year": 2007
+    },
+    "74e49c7a-b595-5b6f-a2ec-eda3ebf99edf": {
+      "musicbrainz_release_group_id": "06540608-bb91-3995-a7fc-797bb6970329",
+      "source_url": "https://musicbrainz.org/release-group/06540608-bb91-3995-a7fc-797bb6970329",
+      "first_release_date": "2007",
+      "release_year": 2007
+    },
+    "ed1bc580-62f0-510a-a07d-b6cf3786210e": {
+      "musicbrainz_release_group_id": "d62a3751-ab6d-4412-9616-df4ac8bbfa3b",
+      "source_url": "https://musicbrainz.org/release-group/d62a3751-ab6d-4412-9616-df4ac8bbfa3b",
+      "first_release_date": "1996",
+      "release_year": 1996
+    },
+    "02484d15-3147-521b-9ed4-63212522e589": {
+      "musicbrainz_release_group_id": "3a693430-422b-4333-a716-dc9ec1729bed",
+      "source_url": "https://musicbrainz.org/release-group/3a693430-422b-4333-a716-dc9ec1729bed",
+      "first_release_date": "2020-06-05",
+      "release_year": 2020
+    },
+    "5c60fe68-c382-59ec-b60e-704978cbad87": {
+      "musicbrainz_release_group_id": "e429d006-05b7-49a2-8f6d-60b9599d85b5",
+      "source_url": "https://musicbrainz.org/release-group/e429d006-05b7-49a2-8f6d-60b9599d85b5",
+      "first_release_date": "2015-10-27",
+      "release_year": 2015
+    },
+    "7f1b4270-66f1-5007-8ddb-9d88ca1be2dd": {
+      "musicbrainz_release_group_id": "8294e228-13f3-4e1c-b9d3-f96d04f3f66f",
+      "source_url": "https://musicbrainz.org/release-group/8294e228-13f3-4e1c-b9d3-f96d04f3f66f",
+      "first_release_date": "1983",
+      "release_year": 1983
+    },
+    "8d656fa5-34ab-522e-bd4f-1672e8ff8204": {
+      "musicbrainz_release_group_id": "097a47ae-a961-44a4-a3b7-336877c5db3b",
+      "source_url": "https://musicbrainz.org/release-group/097a47ae-a961-44a4-a3b7-336877c5db3b",
+      "first_release_date": "2023-06-15",
+      "release_year": 2023
+    },
+    "c6c5dcde-5ff5-5145-a47d-ded327e8d4a2": {
+      "musicbrainz_release_group_id": "da68cec6-7371-46b2-ae71-3fff92dcf001",
+      "source_url": "https://musicbrainz.org/release-group/da68cec6-7371-46b2-ae71-3fff92dcf001",
+      "first_release_date": "2013",
+      "release_year": 2013
+    },
+    "ae7beb80-0bce-524f-8a0c-cc672791039e": {
+      "musicbrainz_release_group_id": "49537e74-fc62-4d21-94d4-48273e46d8f2",
+      "source_url": "https://musicbrainz.org/release-group/49537e74-fc62-4d21-94d4-48273e46d8f2",
+      "first_release_date": "2021-11-05",
+      "release_year": 2021
+    },
+    "dc44612e-b4ac-512f-b16f-3b70881a96e4": {
+      "musicbrainz_release_group_id": "28fc8d6f-3a8f-4bf1-83d1-ff460be8dda6",
+      "source_url": "https://musicbrainz.org/release-group/28fc8d6f-3a8f-4bf1-83d1-ff460be8dda6",
+      "first_release_date": "2020-08-27",
+      "release_year": 2020
+    },
+    "fd62a05a-df89-5b71-90d3-3d7d2de11fb8": {
+      "musicbrainz_release_group_id": "0265c290-5986-3cef-a670-144b21246469",
+      "source_url": "https://musicbrainz.org/release-group/0265c290-5986-3cef-a670-144b21246469",
+      "first_release_date": "1998-03-03",
+      "release_year": 1998
+    },
+    "113cbc9b-5308-53ff-ba3f-fd00284a29ed": {
+      "musicbrainz_release_group_id": "7e02ea84-73e5-4bbc-b42d-04579c832494",
+      "source_url": "https://musicbrainz.org/release-group/7e02ea84-73e5-4bbc-b42d-04579c832494",
+      "first_release_date": "2019-12-13",
+      "release_year": 2019
+    },
+    "746510b2-3c22-58ca-9b16-d4ea9348aba3": {
+      "musicbrainz_release_group_id": "b1027da3-26ce-41e1-9aa5-b5cb2e643af3",
+      "source_url": "https://musicbrainz.org/release-group/b1027da3-26ce-41e1-9aa5-b5cb2e643af3",
+      "first_release_date": "2023-03-31",
+      "release_year": 2023
+    },
+    "37a765bf-7f99-5342-8fb5-cbcc2d3d5430": {
+      "musicbrainz_release_group_id": "eb7dd345-1d96-485d-9e6e-b9671747587e",
+      "source_url": "https://musicbrainz.org/release-group/eb7dd345-1d96-485d-9e6e-b9671747587e",
+      "first_release_date": "1993",
+      "release_year": 1993
+    },
+    "e3c5dc11-0892-5522-8b4d-6e7e40e78db8": {
+      "musicbrainz_release_group_id": "43260464-0b8b-4abf-924a-40a2d1a75642",
+      "source_url": "https://musicbrainz.org/release-group/43260464-0b8b-4abf-924a-40a2d1a75642",
+      "first_release_date": "2006-12-08",
+      "release_year": 2006
+    },
+    "5b30d8b5-c9c0-565c-a823-4ff7d0203a4b": {
+      "musicbrainz_release_group_id": "0933e460-5ae2-4b9c-a7b7-94c8d93068d8",
+      "source_url": "https://musicbrainz.org/release-group/0933e460-5ae2-4b9c-a7b7-94c8d93068d8",
+      "first_release_date": "1995-05-25",
+      "release_year": 1995
+    },
+    "a463f7b9-2c11-5b47-9804-35112dfea5c7": {
+      "musicbrainz_release_group_id": "df0a4501-1abf-4fb1-b391-28fb946e65dc",
+      "source_url": "https://musicbrainz.org/release-group/df0a4501-1abf-4fb1-b391-28fb946e65dc",
+      "first_release_date": "2012-02-16",
+      "release_year": 2012
+    },
+    "3c456694-8b48-5b0a-a9d9-4932a143b207": {
+      "musicbrainz_release_group_id": "c8dfc1c8-f437-46a2-b636-a284e31bbf67",
+      "source_url": "https://musicbrainz.org/release-group/c8dfc1c8-f437-46a2-b636-a284e31bbf67",
+      "first_release_date": "1979",
+      "release_year": 1979
+    },
+    "54d8c568-69a1-5e93-89b7-125f6d4714a6": {
+      "musicbrainz_release_group_id": "69bb5768-c317-4c4e-a0cb-80453eb98643",
+      "source_url": "https://musicbrainz.org/release-group/69bb5768-c317-4c4e-a0cb-80453eb98643",
+      "first_release_date": "1979",
+      "release_year": 1979
+    },
+    "31918605-22eb-5455-b6ca-7a0a7766e748": {
+      "musicbrainz_release_group_id": "9ec23b3c-0ad8-4714-8e27-d4bd02d46343",
+      "source_url": "https://musicbrainz.org/release-group/9ec23b3c-0ad8-4714-8e27-d4bd02d46343",
+      "first_release_date": "2020-03-27",
+      "release_year": 2020
+    },
+    "1f10b2dc-fc09-5783-9a4a-90bba73abb6f": {
+      "musicbrainz_release_group_id": "78b40efc-e6df-3484-a3ad-eadf06b5b623",
+      "source_url": "https://musicbrainz.org/release-group/78b40efc-e6df-3484-a3ad-eadf06b5b623",
+      "first_release_date": "1998",
+      "release_year": 1998
+    },
+    "e84237f5-03d0-5f67-a076-b47b0f0c2d23": {
+      "musicbrainz_release_group_id": "079d8a84-de38-47b9-80af-41cca1e25e5a",
+      "source_url": "https://musicbrainz.org/release-group/079d8a84-de38-47b9-80af-41cca1e25e5a",
+      "first_release_date": "2011",
+      "release_year": 2011
+    },
+    "ec8bf00f-f7f4-56ea-9d7d-0dff1aa44eca": {
+      "musicbrainz_release_group_id": "155f0e18-4ab7-3c71-a8a0-2e3d32b9fc22",
+      "source_url": "https://musicbrainz.org/release-group/155f0e18-4ab7-3c71-a8a0-2e3d32b9fc22",
+      "first_release_date": "1973",
+      "release_year": 1973
+    },
+    "8a2de3d6-fe9a-5ee8-89f7-b14beb5f1560": {
+      "musicbrainz_release_group_id": "d49bd610-a10e-3f14-8bd0-0121f7f20a4d",
+      "source_url": "https://musicbrainz.org/release-group/d49bd610-a10e-3f14-8bd0-0121f7f20a4d",
+      "first_release_date": "1985-11-16",
+      "release_year": 1985
+    },
+    "2c0a9e06-3c77-5443-a5b7-a5145230318c": {
+      "musicbrainz_release_group_id": "7ec9e17b-3c0d-4a74-a4ef-cf657cf225c1",
+      "source_url": "https://musicbrainz.org/release-group/7ec9e17b-3c0d-4a74-a4ef-cf657cf225c1",
+      "first_release_date": "2020-09-25",
+      "release_year": 2020
+    },
+    "970b990e-0204-5848-b3f2-0e4564376900": {
+      "musicbrainz_release_group_id": "42e96186-a40e-4de6-ab96-006728a1dcc3",
+      "source_url": "https://musicbrainz.org/release-group/42e96186-a40e-4de6-ab96-006728a1dcc3",
+      "first_release_date": "2023-10-09",
+      "release_year": 2023
+    },
+    "302f9cf8-8ee6-563a-aff8-01de94ff9328": {
+      "musicbrainz_release_group_id": "4e4d94db-5af9-45e7-8456-fcc252e56bbe",
+      "source_url": "https://musicbrainz.org/release-group/4e4d94db-5af9-45e7-8456-fcc252e56bbe",
+      "first_release_date": "2018-07-06",
+      "release_year": 2018
+    }
+  },
+  "unmatched": {
+    "b1f87a8e-6bc2-53d7-b825-3d8649529f41": "musicbrainz:no_match",
+    "c7ced4dc-dd1f-57c6-996e-5f1500b13837": "musicbrainz:no_confident_match",
+    "f2e3df7a-4a4d-50d9-8038-974e0c7ec921": "musicbrainz:no_confident_match",
+    "1419b6b7-f24a-52c2-bd2d-2ceb75e329eb": "musicbrainz:no_match",
+    "656a6e4b-5892-5dce-9bbd-c8b77b8ed38a": "musicbrainz:no_confident_match",
+    "14949c06-f860-5f22-b728-94e8a1c56933": "musicbrainz:no_match",
+    "bab1cb1a-42c9-5c77-bada-c4e8f18a47c2": "musicbrainz:no_match",
+    "71b3fbd2-9bd2-5a1e-ab28-baf72f0f1378": "musicbrainz:no_parseable_first_release_date",
+    "b26e5398-99bf-584c-bcd7-a0a4a5b4b911": "musicbrainz:no_confident_match",
+    "1bd4c45b-2e6f-5913-ad45-6dc76bdce0d0": "musicbrainz:no_confident_match",
+    "65c5703c-e3cb-50cc-aa1c-dd26ffbd894b": "musicbrainz:no_match",
+    "6018f717-ad32-5d9b-9908-d794501bde44": "musicbrainz:no_match",
+    "c677ce39-f36b-5f0f-b073-83e62874aea7": "musicbrainz:no_confident_match",
+    "3c145291-49bf-55a1-aac1-da2efe0a84f6": "musicbrainz:no_match",
+    "3dfcca3d-cf2f-5932-8f23-adf87f92f3cb": "musicbrainz:no_confident_match",
+    "c13afffc-e87b-588e-9dc7-9c7c7c55a76f": "musicbrainz:no_confident_match",
+    "03e8aad7-85f5-5096-a7f0-7b40c96bc84c": "musicbrainz:no_confident_match",
+    "7eb4a659-99d4-5258-bb3d-66e9b0fdab5c": "musicbrainz:no_confident_match",
+    "6aef95c7-ccab-51e2-ade4-151e4a134940": "musicbrainz:no_confident_match",
+    "4e0591d3-de26-5fa0-92b6-837ed7ea1b7b": "musicbrainz:no_match",
+    "aabb44e2-d84f-5ba1-a17a-5d1dbce13156": "musicbrainz:no_match",
+    "69c00226-2501-5bbb-ae43-5ee69ea6f44c": "musicbrainz:no_parseable_first_release_date",
+    "1ac3f19e-bc1b-5c5e-87bd-30fabe3ee11b": "musicbrainz:low_score:85",
+    "c63a852b-5865-5d30-9389-26f07d30d66b": "musicbrainz:no_match",
+    "5f638db6-06b5-5a15-b037-14e477baf5be": "musicbrainz:no_confident_match",
+    "89cf8670-1104-59d2-9fcc-9ad40fbe30ff": "musicbrainz:no_confident_match",
+    "4da7e337-0675-5b06-b706-a67967abf6e8": "musicbrainz:no_confident_match",
+    "6aafc95d-6ff3-5745-af1d-4db4167bed80": "musicbrainz:no_confident_match",
+    "80c365bd-a3e4-500c-b9e6-975ddda1e2fe": "musicbrainz:no_match",
+    "56b1c634-68cf-5f16-8ef4-869de20334e2": "musicbrainz:no_confident_match",
+    "52c3d9fa-294b-57b1-9909-6965facef9ba": "musicbrainz:no_match"
+  }
+}
